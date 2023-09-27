@@ -1,0 +1,19 @@
+In Bits und Bytes, so fein geschrieben,
+Durch Git's Magie zum Leben getrieben.
+Wo alte Versionen in Schatten stehen,
+Kann mit einem "checkout" man zurückdrehen.
+
+Fehler entdeckt, in Zeilen versteckt,
+Ein "diff" zeigt uns, was nun entdeckt.
+Zwei Pfade teilen, ein neuer Beginn,
+Ein "branch" erstellt, ganz ohne Sinn.
+
+"Commit" nach "Commit", in einer Kette so lang,
+Git's Melodie, ein harmonischer Klang.
+Die Geschichte erzählt, kein Detail verloren,
+Dank Git's Magie, neu geboren.
+
+Ob allein oder im Team, nah oder fern,
+Mit Git an der Seite, lernen wir gern.
+Durch Höhen und Tiefen, durch Licht und Nacht,
+Git hält uns zusammen, mit starker Macht.
