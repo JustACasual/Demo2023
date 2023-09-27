@@ -8,6 +8,11 @@ Eine Momentaufnahme, voller Heiterkeit.
 "Branches" entstehen, wie Flüsse sie fließen,
 Zusammenführen, teilen, niemals vermissen.
 
+Im Netz der Versionen, so fein verwebt,
+Sieht Git jeden Schritt, den ein Entwickler begeht.
+Mit Tags markiert, Meilensteine gesetzt,
+Vergangenes bewahrt, während Neues vernetzt.
+
 Durch stürmische Zeiten, wo Fehler uns plagen,
 Hilft Git uns, Antworten zu tragen.
 "Pull requests" öffnen Türen weit,
